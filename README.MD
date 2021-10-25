@@ -1,6 +1,6 @@
-segunda clase
+segunda clase version 2
 
-## Rutas
+## Rutas version 2
 
 - Bienvenida
 Prueba
